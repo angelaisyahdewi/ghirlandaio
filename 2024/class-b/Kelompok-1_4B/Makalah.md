@@ -75,7 +75,7 @@ bersifat penuh makna, etika, prilaku dan ketuhanan
 Seperti contohnya pendidikan fokus pada penananam kepatuhan, penghafalan kitab suci, dan pembelajaran tradisi-tradisi kuno.
 Bahwa yang dilakukan berkaitan dengan agama yang dianggap benar jadi diharuskan untuk patuh untuk hal tersebut, lalu harus dijaga baik - baik karena merupakan kemurnian yang harus dijaga yang telah lama ada.Gambaran kepatuhan terhadap tuhan sebagai bentuk keimanan.
 * Perbedaan dua metodologis tersebut
-berdasarkan dua metodologis yang telah disebutkan bahwa perbedaan antara sains dan agama adalah pada kekuatan dan makna. kekuatan yang bersifat objektif dan makna subjektif.
+berdasarkan dua metodologis yang telah disebutkan bahwa perbedaan antara sains dan agama adalah pada kekuatan dan makna. Kekuatan yang bersifat objektif dan makna subjektif.
 
 **D. Analisa Mendalam terhadap Konflik**
   
@@ -85,6 +85,10 @@ berdasarkan dua metodologis yang telah disebutkan bahwa perbedaan antara sains d
 # **BAB III** **PENUTUP**
 
 **A. Kesimpulan**
+
+Dalam buku Homo Deus karya Yuval Noah Harari, dapat diambil kesimpulan bahwa Sains dan Agama memiliki fokus dan peranannya masing-masing. Dimana Sains selalu digunakan untuk menjelaskan fakta-fakta dunia, tetapi Sains belum tentu mengerti apakah hal itu benar atau salah. Karenanya, manusia masih membutuhkan pedoman dari Agama untuk menjalani kehidupannya sehari-hari.
+
+Yuval Noah Harari juga mengemukakan bahwa mulai dari masa Yunani sampai masa modern ini, hubungan di antara Sains dan Agama seringkali memunculkan perdebatan hangat. Perdebatan atau konflik ini muncul karena keduanya memiliki cara pandang yang berbeda. Dimana Sains selalu dipandang sebagai suatu pemahaman dan kekuatan untuk mengubah dunia, sementara Agama selalu berfokus kepada sistem moral dalam mengatur kehidupan manusia. Oleh karenanya, konflik yang terjadi di antara kedua ini selalu mengenai yang mana yang memberikan pengaruh lebih besar untuk kehidupan manusia.
 
 # **DAFTAR PUSTAKA**
 
