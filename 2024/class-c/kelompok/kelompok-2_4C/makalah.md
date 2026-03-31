@@ -64,7 +64,18 @@ Selain itu, melalui pemikiran Jean Baudrillard, teknologi juga dipahami sebagai 
 
 Fenomena ini menimbulkan pergeseran cara manusia memahami dunia, dimana realitas yang ditampilkan melalui teknologi seringkali lebih dipercaya dibandingkan pengalaman nyata. Oleh karena itu, penting untuk mengkaji lebih dalam bagaimana teknologi berperan sebagai mitos sekaligus sebagai pembentuk himperrialitas. 
 
-## PENDAHULUAN 
+1.2 Rumusan Masalah
+
+1. Bagaimana posisi teknologi sebagai mitos?
+2. Bagaimaana subtansi teknologi dalam sudut pandang hiperrealitas?
+3. Apa contoh kasus berdasarkan pengalaman pribadi terkait konsep teknologi dalam sudut pandang hiperrealitas?
+4. Bagaimana perbedaan teknologi sebagai mitos dan teknologi alat menggunakan pengalaman internal dan terpersonalisasi?
+
+1.3 Tujuan Penulisan
+1. Menjelaskan posisi teknologi sebagai mitos
+2. Menjelaskan subtansi teknologi dalam sudut pandang hiperrealitas
+3. Memberikan contoh kasus berdasarkan pengalaman pribadi terkait konsep teknologi dalam sudut pandang hiperrealitas
+4. Menjelaskan perbedaan teknologi sebagai mitos dan teknologi sebagai alat menggunakan pengalaman internal dan interpersonalisasi
 
 
 
