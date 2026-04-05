@@ -1,6 +1,6 @@
 # Resume Materi Hubungan Sains dan Agama
 
-##Menjawab pertanyaan dari kelompok 1 yaitu "Apa Pandangan Ekstrem Kedua Tentang Hubungan Sains dan Agama?"
+## Menjawab pertanyaan dari kelompok 1 yaitu "Apa Pandangan Ekstrem Kedua Tentang Hubungan Sains dan Agama?"
 ---
 
 
