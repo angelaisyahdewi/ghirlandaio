@@ -21,9 +21,3 @@
 ---
 
 
-<p align="center"><b>KATA PENGANTAR</b></p>
-
-<p align="justify">
-Assalamualaikum Warahamatullahi Wabarakatuh.
-<br>
-Alhamdulillah kami haturkan puja dan puji syukur ke hadirat Allah SWT. atas karunia dan segala rahmat-Nya sehingga kami dapat menyelesaikan makalah ini dengan baik. Shalawat serta salam semogam </p>
