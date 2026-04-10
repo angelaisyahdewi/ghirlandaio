@@ -31,3 +31,9 @@ Ketiga adalah kebebasan jaringan publik, yang menekankan hak setiap individu unt
 
 # Kesimpulan 
 
+Konsep hak dan tanggung jawab digital pada dasarnya terangkum dalam digital citizenship (kewarganegaraan digital), yaitu pemahaman bahwa pengguna tidak hanya berperan sebagai pemakai teknologi, tetapi juga sebagai warga digital yang memiliki hak dan kewajiban dalam ruang digital. 
+Hak dan tanggung jawab ini mencakup pengelolaan data pribadi, kebebasan berpartisipasi dalam sistem digital, serta akses informasi yang adil dan merata. Hal ini juga diperjelas melalui kerangka Todd Davies yang membagi hak dan tanggung jawab digital ke dalam tiga kategori utama, yaitu kebebasan data pengguna, kebebasan platform perangkat lunak, dan kebebasan jaringan publik, yang secara keseluruhan menunjukkan bahwa penggunaan teknologi harus disertai dengan kesadaran untuk melindungi privasi, berpartisipasi secara aktif, dan menggunakan internet secara adil, etis, dan bertanggung jawab.
+
+# Daftar Pustaka
+
+Davies, T. (2014). Digital Rights and Freedoms: A Framework for Surveying Users and Analyzing Policies. In L. M. Aiello & D. McFarland (Eds.), Social Informatics (Vol. 8851, pp. 428–443). Springer International Publishing. https://doi.org/10.1007/978-3-319-13734-6_31
