@@ -13,3 +13,9 @@ Dari sejarah di atas yang membahas pola hubungan antara kode sumber terbuka dan 
 ## Kesimpulan 
 Copyleft dan copyright merupakan dua konsep yang membahas pengelolaan hak cipta suatu karya. Copyleft memberikan akses bebas kepada orang lain dalam menggunakan suatu karya. Sehingga pengguna dapat memodifikasi dan menyalin asalkan kebebasan itu tetap harus diteruskan ke pengguna berikutnya. Berbeda dengan copyleft, Copyright sendiri memerlukan izin khusus terhadap penggunaan suatu karya. Dimana pencipta dapat mengizinkan atau tidak karya tersebut untuk disalin, diubah dan disebarluaskan kepada orang lain.
 
+## Daftar Pustaka
+-	Makalah kelompok 3 “Transformasi Ekosistem Teknologi: Dari Dominasi Negara ke Era Kolaborasi Terbuka”
+-	Adegbilero-Iwari, I. ., Adetoro, N., Subair, R. E., & Fasae, J. K. (2022). Copyleft and Copyright: Towards Understanding Digital Era Open Licenses. FKJOLIS, 8(2). Retrieved from https://www.fkjolis.org/fkjolis/article/view/14
+-	Singh, H. (2025). Konsep copyleft: Perangkat lunak bebas, creative commons, dan sumber terbuka. Jurnal Hak Kekayaan Intelektual, 30, 269–273. https://doi.org/10.56042/jipr.v30i3.6225
+
+
