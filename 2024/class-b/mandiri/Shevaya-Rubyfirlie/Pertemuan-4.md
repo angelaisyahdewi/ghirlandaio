@@ -14,7 +14,7 @@ Kalau lihat isi buku Troublemakers, perkembangan teknologi di Silicon Valley jug
 
 Ini semua mirip pola _open source_ kode dibuka, siapa aja bisa ikut mengembangkan, tidak ada satu pihak yang pegang kendali penuh. Semangatnya jelas seperti mendorong keterbukaan, kolaborasi, biar makin banyak orang bisa terlibat. Kalau bicara soal ide Marx, _open source_ juga menolak monopoli dan mengutamakan kepemilikan bersama.
 
-Tapi terus terang, _open source_ hari ini tetap hidup di dalam sistem yang masih kapitalistik. Meski mengedepankan kolaborasi dan berbagi, tetap ada kepentingan ekonomi di belakangnya. Jadi, nilai-nilai Marx memang ada, tapi praktik _open source_ belum sepenuhnya bebas dari logika keuntungan dan kapitalisme...
+Tapi terus terang, _open source_ hari ini tetap hidup di dalam sistem yang masih kapitalistik. Meski mengedepankan kolaborasi dan berbagi, tetap ada kepentingan ekonomi di belakangnya. Jadi, nilai-nilai Marx memang ada, tapi praktik _open source_ belum sepenuhnya bebas dari logika keuntungan dan kapitalisme.
 
 ## Kesimpulan
 
