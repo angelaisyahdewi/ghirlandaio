@@ -6,9 +6,8 @@
 Sekarang ini hampir semua aktivitas sudah pakai teknologi digital, mulai dari komunikasi sampai penyimpanan data. Tapi di balik kemudahan itu, ada ancaman yang perlu diwaspadai, salah satunya malware. Malware sering terjadi disebabkan masalah di perangkat, mulai dari eror sampai kebocoran data. Karena itu, penting untuk mengerti apa itu malware.
 
 ## Pembahasan
-Malware merupakan singkatann dari *malicious software* yang berarti perangkat lunak berbahaya. Malware adalah program yang dibuat oleh pihak tidak bertanggung jawab dengan tujuan untuk merusak, mengganggu atau mengambil alih sistem komputer tanpa sepengetahuan pengguna.[^1]
-
-Malware dapat menyerang perangkat melalui berbagai cara, seperti file yang diunduh, aplikasi ilegal atau tautan mencurigakan. Dampak dari malware sangat beragam, mulai dari kerusakan data, pencurian informasi pribadi, hingga pengambilan sistem secara ilegal. Beberapa jenis malware yang umum anatar lain:
+Malware merupakan singkatann dari *malicious software* yang berarti perangkat lunak berbahaya. Malware adalah program yang dibuat oleh pihak tidak bertanggung jawab dengan tujuan untuk merusak, mengganggu atau mengambil alih sistem komputer tanpa sepengetahuan pengguna.[^1] Malware dapat menyerang perangkat melalui berbagai cara, seperti file yang diunduh, aplikasi ilegal atau tautan mencurigakan. Dampak dari malware sangat beragam, mulai dari kerusakan data, pencurian informasi pribadi, hingga pengambilan sistem secara ilegal.
+Beberapa jenis malware yang umum anatar lain:
 
 1. Virus, yaitu program yang dapat menyebar dan merusak file atau sistem.
 2. Worm, yaitu malware yang dapat menyebar melalui jaringan tanpa interaksi pengguna.
