@@ -82,6 +82,7 @@ echo â€œtmpfs /tmp tmpfs defaults,rw, nosuid,nodev,noexec,relatime,size=1G 0 0â€
 ```
                                        
 Masuk ke dalam sistem 
+
 ````
 arch-chroot /mnt
 ```
