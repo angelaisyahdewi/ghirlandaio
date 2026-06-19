@@ -27,7 +27,7 @@ mv docker-compose-for-slims-master compose
 cd compose
 ```
 
-## Optimasi Sistem Kernel (Opsional)
+## Optimasi Sistem Kernel
 
 ```bash
 sudo nvim /etc/sysctl.d/99-custom.conf
@@ -37,7 +37,7 @@ sudo nvim /etc/sysctl.d/99-custom.conf
 sudo sysctl --system
 ```
 
-## Konfigurasi Berkas Compose (Mode Redis)
+## Konfigurasi Berkas Compose
 
 ```bash
 mv docker-compose.yaml docker-compose.yaml.bck
