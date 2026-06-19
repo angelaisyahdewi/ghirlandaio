@@ -1,7 +1,8 @@
 ## Dokumentasi Server 
 
 Memeriksa  partisi 
-```lsblk
+```
+lsblk
 ```
 
 Format Luks 
