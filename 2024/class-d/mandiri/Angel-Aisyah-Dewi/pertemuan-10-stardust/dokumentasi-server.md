@@ -1,7 +1,9 @@
 ## Dokumentasi Server 
 
 Memeriksa  partisi 
-```lsblk```
+```lsblk
+```
+
 Format Luks 
 cryptsetup luksFormat /dev/nvme0n1p7
 masukkan password
