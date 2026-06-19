@@ -6,13 +6,21 @@ lsblk
 ```
 
 Format Luks 
+```
 cryptsetup luksFormat /dev/nvme0n1p7
+```
 masukkan password
+```
 cryptsetup luksOpen /dev/nvme0n1p7(partisi root) stardust (nama device)
+```
 
 Setup LVM 
+```
 pvcreate /dev/mapper/stardust (nama device)
-vgcreate system /dev/mapper/(nama
+```
+```
+vgcreate system /dev/mapper/(nama device)
+```
 
 Membuat Logical Volume 
 lvcreate -L 10G system -n root
