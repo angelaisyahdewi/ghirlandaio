@@ -301,13 +301,13 @@ isinya diganti menjadi:
 6.8.35-l-lts
 ```
 
-dan begitupun dengan:
+lalu config bagian ini:
 
 ```text
 ALL_kerneldest="6.8.35-l-lts"
 ```
 
-isinya diganti dengan:
+isinya diganti menjadi:
 
 ```text
 /boot/kernel/vmlinuz-linux-lts
