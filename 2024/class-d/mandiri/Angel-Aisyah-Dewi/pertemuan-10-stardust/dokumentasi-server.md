@@ -1,3 +1,107 @@
+# Dokumentasi Server
+
+## Memeriksa Partisi
+
+```bash
+lsblk
+```
+
+## Format LUKS
+
+```bash
+cryptsetup luksFormat /dev/nvme0n1p7
+```
+
+masukkan password
+
+```bash
+cryptsetup luksOpen /dev/nvme0n1p7(partisi root) stardust (nama device)
+```
+
+## Setup LVM
+
+```bash
+pvcreate /dev/mapper/stardust (nama device)
+```
+
+```bash
+vgcreate system /dev/mapper/(nama device)
+```
+
+## Membuat Logical Volume
+
+```bash
+lvcreate -L 10G system -n root
+lvcreate -L 10G system -n vars
+lvcreate -L 1G system -n vlog
+lvcreate -L 1G system -n vaud
+lvcreate -L 1G system -n vtmp
+lvcreate -L 10G system -n home
+lvcreate -L 5G system -n podman
+```
+
+## Memformat Partisi
+
+```bash
+mkfs.vfat -F32 -n BOOT /dev/nvme0n1p6
+mkfs.ext4 /dev/system/root
+mkfs.ext4 /dev/system/vars
+mkfs.ext4 /dev/system/vlog
+mkfs.ext4 /dev/system/vaud
+mkfs.ext4 /dev/system/vtmp
+mkfs.ext4 /dev/system/home
+mkfs.ext4 /dev/system/podman
+```
+
+## Cek Partisi
+
+```bash
+lsblk
+```
+
+## Mounting Partisi
+
+```bash
+mount /dev/system/root /mnt
+
+mount --mkdir -o rw,nodev,nosuid,relatime /dev/system/vars /mnt/var
+
+mount --mkdir -o rw,nodev,nosuid,noexec,relatime /dev/system/vlog /mnt/var/log
+
+mount --mkdir -o rw,nodev,nosuid,noexec,relatime /dev/system/vaud /mnt/var/log/audit
+
+mount --mkdir -o rw,nodev,nosuid,noexec,relatime /dev/system/vtmp /mnt/var/tmp
+
+mount --mkdir -o rw,nodev,nosuid,noexec,relatime /dev/system/home /mnt/home
+
+mount --mkdir -o rw,nodev,nosuid,noexec,relatime /dev/system/podman /mnt/var/lib/containers
+```
+
+## Install Package Arch Linux
+
+```bash
+pacstrap /mnt base intel-ucode linux-lts linux-lts-headers linux-firmware mkinitcpio lvm2 sudo curl neovim iwd firewalld pacman podman
+```
+
+## Fstab
+
+```bash
+genfstab -U /mnt > /mnt/etc/fstab
+```
+
+## Mengatur Koneksi Internet
+
+```bash
+cp /etc/systemd/network/* /mnt/etc/systemd/network
+```
+
+## Format tmpfs ke tmp
+
+```bash
+echo “tmpfs /tmp tmpfs defaults,rw, nosuid,nodev,noexec,relatime,size=1G 0 0” >> /mnt/etc/fstab
+```
+
+
 ## Masuk ke Dalam Sistem
 
 ```bash
