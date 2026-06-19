@@ -1,4 +1,4 @@
-# Dokumentasi Server
+# Dokumentasi OS Server
 
 ## Memeriksa Partisi
 
